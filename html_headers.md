@@ -11,9 +11,9 @@
 
     <script src='https://cdnjs.cloudflare.com/ajax/libs/react/0.14.7/react-dom.js'></script>
 
-        <script src='https://npmcdn.com/expect/umd/expect.min.js'></script>
+        <script src='https://unpkg.com/expect/umd/expect.min.js'></script>
 
-          <script src='https://npmcdn.com/expect/umd/expect.min.js'></script>
+          <script src='https://unpkg.com/expect/umd/expect.min.js'></script>
 
   <script src='https://wzrd.in/standalone/deep-freeze@latest'></script>
 
